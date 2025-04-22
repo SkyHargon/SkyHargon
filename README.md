@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/LH-01.png" width="220" alt="Lazy Cosmic Logo">
+  <img src="assets/LH-01.png" width="220" alt="LunaVortex">
   
   # 🌌 SkyHargon's Cosmic Nest 
   
@@ -21,7 +21,7 @@ And now, I'm going to sleep. Sleep is the most important part of my life!!
 ~~~
 ## 🪐 Current Mission Progress
 ~~~
-Objective	            Progress Bar	      Status
+|Objective	   |       Progress Bar	  |    Status     |
 Learn GitHub          ░░░░░░░░░░ 0.1%	    Staring at repo
 Write Code	          ░░░░░░░░░░ 0%	      Found power button
 Stay Awake	          ████▓▓▓▓▓▓ 40%	    Fading...
@@ -49,15 +49,10 @@ Snore Frequency: 404Hz (Not Found)
 ~~~
 
 ## "I very very very love sleeping, who can refuse a sweet dream?"
-```
-                                    —— My Brain While Writing This
-```
+ —— My Brain While Writing This
 
 This README auto-updates when I roll over in bed 😴
-
-~~~
 SkyHargon|2022-2024
-~~~
 </div> ```
 
 
