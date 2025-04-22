@@ -31,7 +31,7 @@ And now, I'm going to sleep. Sleep is the most important part of my life!!
 
 ## Contact(If I wake up)
 
--💤 Dream Address-  pillow@cosmic.snore
+-💤 Dream Address- skyhargon@outlook.com
 -📶 Sleep Signal-  Zzz-0101-1010-Zzz
 -📜 Protocol-   [Hibernation Guide](https://en.wikipedia.org/wiki/Hibernation)
 -📊 Snore Freq-  404Hz (Not Found)
