@@ -19,15 +19,6 @@ but so far, I have not done it in any way or done any things for it.
 Yep, I'm lazy, lazy and lazy. What will be will be in the future? I don't know. 
 And now, I'm going to sleep. Sleep is the most important part of my life!!
 
-## 🪐 Current Mission Progress
-
-|Objective|Progress Bar|Status
-:|:-----------------|-----------------|-----------------:|
-|Learn GitHub|░░░░░░░░░░ 0.1%|taring at repo
-Write Code|░░░░░░░░░░ 0%|Found power button
-Stay Awake|████▓▓▓▓▓▓ 40%|Fading...
-Maintain Sleep Cycle|██████████ 100%|Masterpiece
-
 ## 🌙 Recent Breakthroughs
 
 -🛏️ 2023.12.31  -  Slept through New Year's fireworks (12h record)
