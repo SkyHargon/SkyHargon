@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/LH-01.png" width="220" alt="LunaVortex">
+  <img src="assets/LH01.png" width="220" alt="LunaVortex">
   
   # 🌌 SkyHargon's Cosmic Nest 
   
