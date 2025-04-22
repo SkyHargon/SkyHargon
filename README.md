@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/LH01.png" width="220" alt="LunaVortex">
   
-  # 🌌 SkyHargon's Cosmic Nest 
+  # 🌌 SkyHargon's Introduction
   
   **Professional Dreamer** • **Part-time Sleep Researcher** • **Github Explorer (maybe)**
 </div>
@@ -21,11 +21,11 @@ And now, I'm going to sleep. Sleep is the most important part of my life!!
 ~~~
 ## 🪐 Current Mission Progress
 ~~~
-Objective             Progress Bar              Status
-Learn GitHub          ░░░░░░░░░░ 0.1%S          taring at repo
-Write Code            ░░░░░░░░░░ 0%             Found power button
-Stay Awake            ████▓▓▓▓▓▓ 40%            Fading...
-Maintain Sleep Cycle  ██████████ 100%           Masterpiece
+-Objective             Progress Bar              Status
+-Learn GitHub          ░░░░░░░░░░ 0.1%S          taring at repo
+-Write Code            ░░░░░░░░░░ 0%             Found power button
+-Stay Awake            ████▓▓▓▓▓▓ 40%            Fading...
+-Maintain Sleep Cycle  ██████████ 100%           Masterpiece
 ~~~
 ## 🌙 Recent Breakthroughs
 ~~~
