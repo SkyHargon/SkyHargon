@@ -31,10 +31,7 @@ And now, I'm going to sleep. Sleep is the most important part of my life!!
 
 ## Contact(If I wake up)
 
--💤 Dream Address- skyhargon@outlook.com
--📶 Sleep Signal-  Zzz-0101-1010-Zzz
--📜 Protocol-   [Hibernation Guide](https://en.wikipedia.org/wiki/Hibernation)
--📊 Snore Freq-  404Hz (Not Found)
+💤 Email Address: skyhargon@outlook.com | Steam Link:  https://steamcommunity.com/id/SkyHargon/
 
 ## "I very very very love sleeping, who can refuse a sweet dream?"
  —— My Brain While Writing This
